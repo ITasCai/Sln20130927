@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01作业问题", "01作业问题\01作业问题.csproj", "{97442E15-2AB3-4A96-AD47-CC09300EE7AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02正则表达式提取", "02正则表达式提取\02正则表达式提取.csproj", "{D3ACFE43-2C3E-4717-83A4-31215588D92C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03贪婪模式", "03贪婪模式\03贪婪模式.csproj", "{19453DD7-A278-4B91-89B2-D40BFB20F068}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04正则表达式替换", "04正则表达式替换\04正则表达式替换.csproj", "{C3809853-D365-43EF-A1BD-378998BD78D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05通过WebClient类来发起请求并下载html", "05通过WebClient类来发起请求并下载html\05通过WebClient类来发起请求并下载html.csproj", "{C481A8D4-51EC-48B4-B14E-A352638BF1AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97442E15-2AB3-4A96-AD47-CC09300EE7AB}.Debug|x86.ActiveCfg = Debug|x86
+		{97442E15-2AB3-4A96-AD47-CC09300EE7AB}.Debug|x86.Build.0 = Debug|x86
+		{97442E15-2AB3-4A96-AD47-CC09300EE7AB}.Release|x86.ActiveCfg = Release|x86
+		{97442E15-2AB3-4A96-AD47-CC09300EE7AB}.Release|x86.Build.0 = Release|x86
+		{D3ACFE43-2C3E-4717-83A4-31215588D92C}.Debug|x86.ActiveCfg = Debug|x86
+		{D3ACFE43-2C3E-4717-83A4-31215588D92C}.Debug|x86.Build.0 = Debug|x86
+		{D3ACFE43-2C3E-4717-83A4-31215588D92C}.Release|x86.ActiveCfg = Release|x86
+		{D3ACFE43-2C3E-4717-83A4-31215588D92C}.Release|x86.Build.0 = Release|x86
+		{19453DD7-A278-4B91-89B2-D40BFB20F068}.Debug|x86.ActiveCfg = Debug|x86
+		{19453DD7-A278-4B91-89B2-D40BFB20F068}.Debug|x86.Build.0 = Debug|x86
+		{19453DD7-A278-4B91-89B2-D40BFB20F068}.Release|x86.ActiveCfg = Release|x86
+		{19453DD7-A278-4B91-89B2-D40BFB20F068}.Release|x86.Build.0 = Release|x86
+		{C3809853-D365-43EF-A1BD-378998BD78D2}.Debug|x86.ActiveCfg = Debug|x86
+		{C3809853-D365-43EF-A1BD-378998BD78D2}.Debug|x86.Build.0 = Debug|x86
+		{C3809853-D365-43EF-A1BD-378998BD78D2}.Release|x86.ActiveCfg = Release|x86
+		{C3809853-D365-43EF-A1BD-378998BD78D2}.Release|x86.Build.0 = Release|x86
+		{C481A8D4-51EC-48B4-B14E-A352638BF1AD}.Debug|x86.ActiveCfg = Debug|x86
+		{C481A8D4-51EC-48B4-B14E-A352638BF1AD}.Debug|x86.Build.0 = Debug|x86
+		{C481A8D4-51EC-48B4-B14E-A352638BF1AD}.Release|x86.ActiveCfg = Release|x86
+		{C481A8D4-51EC-48B4-B14E-A352638BF1AD}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
